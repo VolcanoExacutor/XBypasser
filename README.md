@@ -1,6 +1,6 @@
 # XBypasser
 
-* XBypasser is a macOS app that removes screen time restrictions on any non system app.
+### XBypasser is a macOS app that removes screen time restrictions on any non system app.
 ---
 
 ## ⚠️ Important macOS Warnings
